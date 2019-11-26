@@ -17,7 +17,7 @@ class NewHouseItem(Item):
     name = Field()
     # 价格
     price = Field()
-    # 几局，这个是一个列表
+    # 几居，这个是一个列表
     rooms = Field()
     # 面积
     area = Field()
